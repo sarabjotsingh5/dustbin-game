@@ -1,1 +1,1 @@
-# dustbin-game
+# CP-2
